@@ -1,7 +1,8 @@
 # ChatRoomDiscordTest
 
     - This is a Chat room based on a firebase database.
-    - It utilize the discord API to serve as logs, it basically sends every messages into a discord channel of your choice
+    - It utilize the discord API to serve as logs, it basically
+    sends every messages into a discord channel of your choice
 
 ### Connect with me:
 
